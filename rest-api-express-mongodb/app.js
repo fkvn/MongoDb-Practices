@@ -8,8 +8,6 @@ const dbUtils = require('../DatabaseInfo')
 // initilization
 let app = express()
 
-
-
 // connect to remote server
 // remember to define your remote server information in DatabaseInfo.js
 const reServer = dbUtils.getUrlWithUsernamePassword()
