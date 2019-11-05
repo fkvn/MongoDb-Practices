@@ -2,4 +2,7 @@
 
 MongoDb Examples
 
-**Notes**: After cloning the project to local disk, change the DatabaseInfo.sample.js to **DatabaseInfo.js** and fill out your database information (for remote host) before running any example.
+**Notes**: To make the connection to your MongoDB database 
+
+1. Cloning the project
+2. Change name of DatabaseInfo.sample.js to **DatabaseInfo.js**
